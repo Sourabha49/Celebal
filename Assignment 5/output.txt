@@ -1,0 +1,3 @@
+Preprocessing complete.
+Train shape: (1460, 269)
+Test shape : (1459, 269)

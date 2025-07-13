@@ -1,0 +1,59 @@
+Model: Logistic Regression
+Accuracy: 0.9737 
+Precision: 0.9722
+Recall: 0.9859   
+F1 Score: 0.9790 
+              precision    recall  f1-score   support
+
+           0       0.98      0.95      0.96        43
+           1       0.97      0.99      0.98        71
+
+    accuracy                           0.97       114
+   macro avg       0.97      0.97      0.97       114
+weighted avg       0.97      0.97      0.97       114
+
+
+Model: Random Forest
+Accuracy: 0.9561
+Precision: 0.9583
+Recall: 0.9718
+F1 Score: 0.9650
+              precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94        43
+           1       0.96      0.97      0.97        71
+
+    accuracy                           0.96       114
+   macro avg       0.96      0.95      0.95       114
+weighted avg       0.96      0.96      0.96       114
+
+
+Model: SVM
+Accuracy: 0.9825
+Precision: 0.9726
+Recall: 1.0000
+F1 Score: 0.9861
+              precision    recall  f1-score   support
+
+           0       1.00      0.95      0.98        43
+           1       0.97      1.00      0.99        71
+
+    accuracy                           0.98       114
+   macro avg       0.99      0.98      0.98       114
+weighted avg       0.98      0.98      0.98       114
+
+
+Model: KNN
+Accuracy: 0.9474
+Precision: 0.9577
+Recall: 0.9577
+F1 Score: 0.9577
+              precision    recall  f1-score   support
+
+           0       0.93      0.93      0.93        43
+           1       0.96      0.96      0.96        71
+
+    accuracy                           0.95       114
+   macro avg       0.94      0.94      0.94       114
+weighted avg       0.95      0.95      0.95       114
+
